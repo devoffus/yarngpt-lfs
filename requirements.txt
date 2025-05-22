@@ -1,0 +1,11 @@
+outetts
+uroman
+torch
+torchaudio
+transformers
+inflect
+
+datasets
+accelerate
+evaluate
+scikit-learn
